@@ -20,4 +20,5 @@ numpy: Required for numerical operations on image data.
 1) Ensure the required dependencies are installed (requests, PIL, cv2, numpy).
 2) Copy and run the provided script, replacing the image URL as needed.
 3) Observe the output window displaying the original image with highlighted regions and lines.
+
 Feel free to explore and modify the script for your specific use cases, such as image analysis, object detection, or further customization of the contour filtering criteria.
